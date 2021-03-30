@@ -1,0 +1,6 @@
+C:\Users\Mouad Cherkaoui\source\repos\FSharpAvalonia\obj\Debug\netcoreapp3.1\FSharpAvalonia.fsprojAssemblyReference.cache
+C:\Users\Mouad Cherkaoui\source\repos\FSharpAvalonia\obj\Debug\netcoreapp3.1\FSharpAvalonia.AssemblyInfoInputs.cache
+C:\Users\Mouad Cherkaoui\source\repos\FSharpAvalonia\obj\Debug\netcoreapp3.1\FSharpAvalonia.AssemblyInfo.fs
+c:\Users\Mouad Cherkaoui\source\repos\FSharpAvalonia\src\obj\Debug\netcoreapp3.1\FSharpAvalonia.AssemblyInfoInputs.cache
+c:\Users\Mouad Cherkaoui\source\repos\FSharpAvalonia\src\obj\Debug\netcoreapp3.1\FSharpAvalonia.AssemblyInfo.fs
+c:\Users\Mouad Cherkaoui\source\repos\FSharpAvalonia\src\obj\Debug\netcoreapp3.1\FSharpAvalonia.fsproj.CoreCompileInputs.cache
